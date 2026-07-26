@@ -1,0 +1,35 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+
+# --- Local database (score history, consent log, connector cache) ---
+*.db
+*.db-wal
+*.db-shm
+
+# --- Node / frontend ---
+node_modules/
+.vite/
+credit_scoring_pipeline/frontend/dist/
+
+# --- Secrets: never commit a real .env, always commit the example ---
+.env
+.env.local
+!.env.example
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini

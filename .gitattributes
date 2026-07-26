@@ -1,0 +1,11 @@
+# Keep LF in the repository regardless of the checkout platform, so a Windows
+# contributor and a Linux CI runner produce identical diffs.
+* text=auto eol=lf
+
+# Fixtures are compared byte-for-byte by the consistency tests.
+*.json text eol=lf
+
+*.png binary
+*.jpg binary
+*.ico binary
+*.docx binary
