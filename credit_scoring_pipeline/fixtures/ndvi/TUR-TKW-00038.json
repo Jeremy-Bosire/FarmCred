@@ -1,0 +1,19 @@
+{
+  "parcel_id": "TUR-TKW-00038",
+  "crop": "maize",
+  "source": "Sentinel-2 L2A monthly median NDVI composite, 10m, cloud-masked (SCL) - synthetic series in Copernicus/DEAfrica response shape",
+  "baseline_mean_ndvi": 0.45,
+  "anomaly_vs_baseline": -0.31,
+  "series": [
+    {"date": "2025-10-01", "ndvi": 0.11},
+    {"date": "2025-11-01", "ndvi": 0.18},
+    {"date": "2025-12-01", "ndvi": 0.16},
+    {"date": "2026-01-01", "ndvi": 0.12},
+    {"date": "2026-02-01", "ndvi": 0.09},
+    {"date": "2026-03-01", "ndvi": 0.10},
+    {"date": "2026-04-01", "ndvi": 0.16},
+    {"date": "2026-05-01", "ndvi": 0.18},
+    {"date": "2026-06-01", "ndvi": 0.17},
+    {"date": "2026-07-01", "ndvi": 0.13}
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "_note": "DELIBERATELY UNWIRED. SIM tenure and swap recency are classic mobile-lending fraud/stability signals, and this fixture exists so a reviewer can see the shape a telco/aggregator response would arrive in. Nothing in scoring/bands.py or scoring/engine.py reads this file: no eligibility gate and no band consumes it in the MVP. It is not part of any consent category in PRD s3.2 either, so wiring it in would need its own consent event first. F007 shows the textbook fraud pattern (2-month-old line, swapped last month) and is STILL gated purely on the three-way national-ID check - the gate does not need this data to fire.",
+  "+254712345001": {
+    "sim_tenure_months": 94,
+    "recent_sim_swap": false,
+    "swap_months_ago": null,
+    "network": "safaricom"
+  },
+  "+254712345002": {
+    "sim_tenure_months": 41,
+    "recent_sim_swap": false,
+    "swap_months_ago": null,
+    "network": "safaricom"
+  },
+  "+254712345003": {
+    "sim_tenure_months": 63,
+    "recent_sim_swap": true,
+    "swap_months_ago": 4,
+    "network": "safaricom"
+  },
+  "+254712345004": {
+    "sim_tenure_months": 77,
+    "recent_sim_swap": false,
+    "swap_months_ago": null,
+    "network": "safaricom"
+  },
+  "+254712345005": {
+    "sim_tenure_months": 22,
+    "recent_sim_swap": false,
+    "swap_months_ago": null,
+    "network": "airtel"
+  },
+  "+254712345006": {
+    "sim_tenure_months": 108,
+    "recent_sim_swap": false,
+    "swap_months_ago": null,
+    "network": "safaricom"
+  },
+  "+254712345007": {
+    "sim_tenure_months": 2,
+    "recent_sim_swap": true,
+    "swap_months_ago": 1,
+    "network": "safaricom"
+  }
+}

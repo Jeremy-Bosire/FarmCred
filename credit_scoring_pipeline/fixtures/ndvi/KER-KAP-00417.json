@@ -1,0 +1,19 @@
+{
+  "parcel_id": "KER-KAP-00417",
+  "crop": "tea",
+  "source": "Sentinel-2 L2A monthly median NDVI composite, 10m, cloud-masked (SCL) - synthetic series in Copernicus/DEAfrica response shape",
+  "baseline_mean_ndvi": 0.72,
+  "anomaly_vs_baseline": 0.04,
+  "series": [
+    {"date": "2025-10-01", "ndvi": 0.74},
+    {"date": "2025-11-01", "ndvi": 0.78},
+    {"date": "2025-12-01", "ndvi": 0.79},
+    {"date": "2026-01-01", "ndvi": 0.72},
+    {"date": "2026-02-01", "ndvi": 0.69},
+    {"date": "2026-03-01", "ndvi": 0.73},
+    {"date": "2026-04-01", "ndvi": 0.78},
+    {"date": "2026-05-01", "ndvi": 0.81},
+    {"date": "2026-06-01", "ndvi": 0.80},
+    {"date": "2026-07-01", "ndvi": 0.76}
+  ]
+}

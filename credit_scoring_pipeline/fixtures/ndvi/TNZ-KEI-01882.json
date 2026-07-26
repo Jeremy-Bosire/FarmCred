@@ -1,0 +1,19 @@
+{
+  "parcel_id": "TNZ-KEI-01882",
+  "crop": "maize",
+  "source": "Sentinel-2 L2A monthly median NDVI composite, 10m, cloud-masked (SCL) - synthetic series in Copernicus/DEAfrica response shape",
+  "baseline_mean_ndvi": 0.62,
+  "anomaly_vs_baseline": -0.03,
+  "series": [
+    {"date": "2025-10-01", "ndvi": 0.74},
+    {"date": "2025-11-01", "ndvi": 0.62},
+    {"date": "2025-12-01", "ndvi": 0.46},
+    {"date": "2026-01-01", "ndvi": 0.36},
+    {"date": "2026-02-01", "ndvi": 0.33},
+    {"date": "2026-03-01", "ndvi": 0.44},
+    {"date": "2026-04-01", "ndvi": 0.62},
+    {"date": "2026-05-01", "ndvi": 0.76},
+    {"date": "2026-06-01", "ndvi": 0.82},
+    {"date": "2026-07-01", "ndvi": 0.75}
+  ]
+}

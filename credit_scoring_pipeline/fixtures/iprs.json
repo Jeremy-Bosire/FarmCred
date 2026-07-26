@@ -1,0 +1,51 @@
+{
+  "F001": {
+    "extracted_national_id": "22334455",
+    "iprs_match": true,
+    "iprs_name": "GRACE WANJIKU",
+    "document_type": "national_id_card",
+    "specimen": true
+  },
+  "F002": {
+    "extracted_national_id": "31445566",
+    "iprs_match": true,
+    "iprs_name": "PETER KIMUTAI",
+    "document_type": "maisha_card",
+    "specimen": true
+  },
+  "F003": {
+    "extracted_national_id": "27889900",
+    "iprs_match": true,
+    "iprs_name": "MARY KANINI",
+    "document_type": "national_id_card",
+    "specimen": true
+  },
+  "F004": {
+    "extracted_national_id": "24551133",
+    "iprs_match": true,
+    "iprs_name": "JOSEPH MWANGI",
+    "document_type": "national_id_card",
+    "specimen": true
+  },
+  "F005": {
+    "extracted_national_id": "29001122",
+    "iprs_match": true,
+    "iprs_name": "EKIRU LOKWANG",
+    "document_type": "maisha_card",
+    "specimen": true
+  },
+  "F006": {
+    "extracted_national_id": "26773311",
+    "iprs_match": true,
+    "iprs_name": "DANIEL OTIENO",
+    "document_type": "national_id_card",
+    "specimen": true
+  },
+  "F007": {
+    "extracted_national_id": "11223344",
+    "iprs_match": true,
+    "iprs_name": "UNVERIFIED APPLICANT",
+    "document_type": "national_id_card",
+    "specimen": true
+  }
+}

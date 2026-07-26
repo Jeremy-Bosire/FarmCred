@@ -1,0 +1,58 @@
+{
+  "kapsoit": {
+    "county": "kericho",
+    "regional_exposure": "moderate",
+    "chirps_baseline_mm_season": 780,
+    "season_to_date_mm": 718,
+    "rainfall_deficit_pct": 8,
+    "source": "CHIRPS v2.0 1981-2020 MAM climatology (cached at boot) + season-to-date accumulation, 2026 long rains"
+  },
+  "keiyo": {
+    "county": "trans_nzoia",
+    "regional_exposure": "elevated",
+    "chirps_baseline_mm_season": 640,
+    "season_to_date_mm": 525,
+    "rainfall_deficit_pct": 18,
+    "source": "CHIRPS v2.0 1981-2020 MAM climatology (cached at boot) + season-to-date accumulation, 2026 long rains"
+  },
+  "kibirichia": {
+    "county": "meru",
+    "regional_exposure": "high",
+    "chirps_baseline_mm_season": 520,
+    "season_to_date_mm": 374,
+    "rainfall_deficit_pct": 28,
+    "source": "CHIRPS v2.0 1981-2020 MAM climatology (cached at boot) + season-to-date accumulation, 2026 long rains"
+  },
+  "mau_narok": {
+    "county": "nakuru",
+    "regional_exposure": "low",
+    "chirps_baseline_mm_season": 590,
+    "season_to_date_mm": 560,
+    "rainfall_deficit_pct": 5,
+    "source": "CHIRPS v2.0 1981-2020 MAM climatology (cached at boot) + season-to-date accumulation, 2026 long rains"
+  },
+  "turkwel": {
+    "county": "turkana",
+    "regional_exposure": "severe",
+    "chirps_baseline_mm_season": 210,
+    "season_to_date_mm": 80,
+    "rainfall_deficit_pct": 62,
+    "source": "CHIRPS v2.0 1981-2020 MAM climatology (cached at boot) + season-to-date accumulation, 2026 long rains"
+  },
+  "dedan_kimathi": {
+    "county": "nyeri",
+    "regional_exposure": "low",
+    "chirps_baseline_mm_season": 610,
+    "season_to_date_mm": 586,
+    "rainfall_deficit_pct": 4,
+    "source": "CHIRPS v2.0 1981-2020 MAM climatology (cached at boot) + season-to-date accumulation, 2026 long rains"
+  },
+  "komothai": {
+    "county": "kiambu",
+    "regional_exposure": "low",
+    "chirps_baseline_mm_season": 700,
+    "season_to_date_mm": 651,
+    "rainfall_deficit_pct": 7,
+    "source": "CHIRPS v2.0 1981-2020 MAM climatology (cached at boot) + season-to-date accumulation, 2026 long rains"
+  }
+}
